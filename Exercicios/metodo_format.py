@@ -1,6 +1,7 @@
 a = int(input("Informe o primeiro valor: "))
 b = int(input("Informe o segundo valor: "))
 
+# Variáveis para a realização dos testes
 soma = a + b
 subtracao = a - b
 divisao = a / b
